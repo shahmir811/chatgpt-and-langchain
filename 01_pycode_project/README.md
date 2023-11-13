@@ -5,7 +5,7 @@
 
 ### Usage
 
-At the root of the file create a file name `.env` and add the openAI key:
+At the root of the folder, replace file `.env-example` with name `.env` and add the openAI key:
 
 ```OPENAI_API_KEY=```
 
