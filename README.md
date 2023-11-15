@@ -5,7 +5,7 @@
 
 ### Build following projects
 
-- Pycode
+- [Pycode](https://github.com/shahmir811/chatgpt-and-langchain/tree/main/01_pycode_project)
 
 
 
