@@ -1,7 +1,7 @@
 # PyCode
 
-> Created a small application where we use langChain to link multiple chains and
-> get interactions with openAI
+Created a small application where we use langChain to link multiple chains and
+get interactions with openAI
 
 ### Usage
 

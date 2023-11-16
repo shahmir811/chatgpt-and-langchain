@@ -12,3 +12,18 @@ As soon as they hit enter, then see response, and we should get something like f
 And naturally, this is not going to be a chatbot about just doing very simple math equations.
 
 This is just an example. User can type in anything they want here.
+
+### Usage
+
+At the root of the folder, replace file `.env-example` with name `.env` and add the openAI key:
+
+```OPENAI_API_KEY=```
+
+
+### Run the program
+
+In order to run a program you have to type the `language` and `task` flags, 
+else it will use the default flags
+
+```python main.py```
+
